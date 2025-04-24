@@ -1,6 +1,3 @@
-# smart-contract-dev-environments
-Contrast between :- 1) Hardhat and foundry environments both when building,compiling and deploying smart contracts. 2) Building a smart contract using local IDE environments like visual studio rather than in remix.
-
 # Comparing Hardhat vs Foundry & Remix vs Local IDE (VS Code)
 
 Blockchain developers have several tools at their disposal when it comes to building, compiling, and deploying smart contracts. In this guide, we’ll compare two of the most popular Ethereum development frameworks—**Hardhat** and **Foundry**—and explore the differences between using **Remix** (a browser-based IDE) versus local development environments like **Visual Studio Code**.
